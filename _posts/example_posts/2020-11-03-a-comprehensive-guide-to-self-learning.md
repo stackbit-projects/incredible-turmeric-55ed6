@@ -1,5 +1,5 @@
 ---
-title: A Comprehensive Guide to Self-Learning
+title: Manjaro install 2020
 author: Hristijan kjosevski
 avatar: assets/img/common/reid-avatar.png
 categories:
