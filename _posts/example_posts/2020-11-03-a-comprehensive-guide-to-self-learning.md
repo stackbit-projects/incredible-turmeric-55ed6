@@ -1,6 +1,6 @@
 ---
 title: A Comprehensive Guide to Self-Learning
-author: Hris
+author: Hristijan kjosevski
 avatar: assets/img/common/reid-avatar.png
 categories:
   - How-To
