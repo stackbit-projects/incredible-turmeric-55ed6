@@ -6,7 +6,7 @@ categories:
   - How-To
 tags:
   - Manjaro
-  - Inspiration
+  - Howto
   - Habits
 content-type: arcticle
 ---
