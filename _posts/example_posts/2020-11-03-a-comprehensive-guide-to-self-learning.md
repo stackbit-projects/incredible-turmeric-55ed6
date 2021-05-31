@@ -7,7 +7,7 @@ categories:
 tags:
   - Manjaro
   - Howto
-  - Habits
+  - linux
 content-type: arcticle
 ---
 So you want to install manjaro requierments . usb 4gb.Manjaro isoGo to Choose your desktop enviorment download it after its finished go to now open it after you opened etcher you should see this Bios keys## Acer*Aspire, Predator, Spin, Swift, Extensa, Ferrari, Power, Altos, TravelMate, Veriton**   Press **Del** or **F2** immediately after powering on.
