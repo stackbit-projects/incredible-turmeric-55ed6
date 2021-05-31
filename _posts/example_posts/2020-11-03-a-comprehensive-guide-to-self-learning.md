@@ -5,7 +5,7 @@ avatar: assets/img/common/reid-avatar.png
 categories:
   - How-To
 tags:
-  - Creativity
+  - Manjaro
   - Inspiration
   - Habits
 content-type: arcticle
