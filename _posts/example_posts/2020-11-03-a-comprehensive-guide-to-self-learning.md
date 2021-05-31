@@ -8,7 +8,7 @@ tags:
   - Creativity
   - Inspiration
   - Habits
-content-type: manjaro
+content-type: arcticle
 ---
 
 One of the most effective methods to understanding the materials that you’re studying is to be passionate about them. This is the beauty of MOOCs — the idea that you can pick and choose to learn exactly and only what you want to.
